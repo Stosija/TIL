@@ -5,5 +5,5 @@ I was inspired by this [post](https://github.com/jbranchaud/til/blob/master/READ
 
 ***
 ## Catergories
--Issues
--Github
+*Issues
+*Github
