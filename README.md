@@ -5,6 +5,4 @@ I was inspired by this [post](https://github.com/jbranchaud/til/blob/master/READ
 
 ***
 ### Categories
-* Issues
-* Github
-* Markdown
+* [Gatsby](https://github.com/Stosija/TIL/tree/master/gatsby) 
