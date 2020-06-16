@@ -5,6 +5,7 @@ I was inspired by this [post](https://github.com/jbranchaud/til/blob/master/READ
 
 ***
 ### Categories
+* [Azure](https://github.com/Stosija/TIL/tree/master/azure)
 * [Gatsby](https://github.com/Stosija/TIL/tree/master/gatsby) 
 * [Mac](https://github.com/Stosija/TIL/tree/master/mac)
 
