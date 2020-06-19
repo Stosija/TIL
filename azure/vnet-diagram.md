@@ -1,0 +1,1 @@
+If you want to view the topology of your Virtual Network, there is a tool called 'Diagram' under the monitoring blade. It'll create a diagram of your network such as your NICs, VMs, VLANs, etc. Note: you must have a Network Watcher present to use this. 
