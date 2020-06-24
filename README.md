@@ -9,4 +9,5 @@ I was inspired by this [post](https://github.com/jbranchaud/til/blob/master/READ
 * [Gatsby](https://github.com/Stosija/TIL/tree/master/gatsby) 
 * [Git](https://github.com/Stosija/TIL/tree/master/git)
 * [Mac](https://github.com/Stosija/TIL/tree/master/mac)
+* [Terraform](https://github.com/Stosija/TIL/tree/master/terraform)
 
